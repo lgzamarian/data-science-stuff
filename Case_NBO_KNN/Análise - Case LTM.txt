@@ -1,0 +1,7 @@
+Não utilizaria o modelo.
+
+Devido do objetivo principal do modelo ser obter maior receita e assumindo que os produtos podem ser recomprados em 
+curto espaço de tempo, devemos ter algoritmos que tragam, entre suas sugestões de produtos, a opção de recompra.
+
+Além disso, também considerei na solução proposta que todos os produtos possuem mesmo valor de venda 
+(pois faltava a informação de valor unitário nos dados).
